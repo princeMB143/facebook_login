@@ -14,7 +14,7 @@
 .face-book-container {
   background-color: white;
   padding: 12px;
-  height: 425px;
+  height: auto;
   width: 450px;
   display: flex;
   flex-direction: column;
